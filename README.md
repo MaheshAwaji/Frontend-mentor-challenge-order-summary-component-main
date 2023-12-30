@@ -12,8 +12,7 @@ Include a brief description of the project and its purpose. Mention the key feat
  [Check for Demo](https://mahesh-awaji-newbie-frontend-mentor-2.netlify.app/).
 
 ### Screenshots
-
-Include screenshots or GIFs to showcase different aspects of your project. You can add images to a `screenshots` folder and reference them in your README.
+![Blog Preview Card](Screenshots/Screenshot.PNG)
 
 ### Built With
 

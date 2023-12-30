@@ -9,7 +9,7 @@ Include a brief description of the project and its purpose. Mention the key feat
 
 ### Live Demo
 
-You can view a live demo of the project hosted on [GitHub Pages](#provide-the-link-to-your-hosted-demo).
+ [Check for Demo](https://mahesh-awaji-newbie-frontend-mentor-2.netlify.app/).
 
 ### Screenshots
 

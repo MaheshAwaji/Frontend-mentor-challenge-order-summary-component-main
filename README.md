@@ -1,5 +1,5 @@
 
-# Order Summary Component
+# Order Summary Component-Frontend Mentor Challenge
 
 This project is a solution to the [Frontend Mentor](https://www.frontendmentor.io/) challenge for beginners. The challenge involves creating an order summary component using standard HTML and CSS, incorporating flexbox and box model concepts, and making the design responsive with media queries.
 

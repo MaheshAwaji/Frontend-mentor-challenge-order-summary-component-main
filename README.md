@@ -12,7 +12,7 @@ Include a brief description of the project and its purpose. Mention the key feat
  [Check for Demo](https://mahesh-awaji-newbie-frontend-mentor-2.netlify.app/).
 
 ### Screenshots
-![Blog Preview Card](Screenshots/Screenshot.PNG)
+![Order-Summary-Card](Screenshot2.PNG)
 
 ### Built With
 
